@@ -5,7 +5,7 @@ import java.util.*;
 public class Shop {
     public static void main(String[] args) {
         //сортировка по рейтингу
-        Tovar1 tovar = new Tovar("Ведро", "Железное ведро супер!", 200);
+        Tovar tovar = new Tovar("Ведро", "Железное ведро супер!", 200);
         Tovar tovar1 = new Tovar("Телефон", "Супер андроид телефон", 10000);
         Tovar tovar2 = new Tovar("Машинка", "Машинка на радио управлении!", 8000);
         Tovar tovar3 = new Tovar("Камин", "Встраеваемый Камин жаркий!", 12000);
