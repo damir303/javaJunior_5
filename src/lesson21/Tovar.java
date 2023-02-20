@@ -18,6 +18,7 @@ public class Tovar implements Comparable<Tovar> {
         this.name = name;
         this.opis = opis;
         this.price = price;
+        //sdkjgfljhsdv
     }
 
     public Tovar(String name, String opis, int price, List<Otziv> otzivs, List<Vopros> vopros) {
