@@ -21,7 +21,7 @@ public class Shop {
         tovar1.setOtzivs(otziv1);
         tovar1.setVopros(vopros1);
 
-        Otziv otziv2 = new Otziv(4, "Машинка2");
+        Otziv otziv2 = new Otziv(4, "Машинка3");
         Vopros vopros2 = new Vopros("Машинка", "Машинка2");
         tovar2.setOtzivs(otziv2);
         tovar2.setVopros(vopros2);
