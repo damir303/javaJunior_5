@@ -31,7 +31,7 @@ public class Tovar implements Comparable<Tovar> {
     public String getName() {
         return name;
     }
-
+//Test comment
     public void setName(String name) {
         this.name = name;
     }
